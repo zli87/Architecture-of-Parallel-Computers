@@ -1,5 +1,5 @@
 # Project #2: SMP simulator (shared multiprocessor simulator)
-
+TBD: update all picture. please refer to report.pdf for pictures.
 <div class="page"/>
 
 # Table of Contents

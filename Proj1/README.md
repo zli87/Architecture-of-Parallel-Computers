@@ -1,4 +1,4 @@
-# Project #1: Cache Design, Memory Hierarchy Design
+# Project #1: Accelerating Sorting in Graph Processing Adjacency Lists (OpenMP, MPI, and Hybrid versions)
 
 TBD: update all picture. please refer to report.pdf for pictures.
 
